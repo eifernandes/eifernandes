@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente aprendendo sobre o universo Salesforce e visão computacional
+Atualmente aprendendo sobre o universo Salesforce e <br>visão computacional
 
 
 ## 🌐 Socials:
@@ -12,8 +12,13 @@ Atualmente aprendendo sobre o universo Salesforce e visão computacional
 ![](https://nirzak-streak-stats.vercel.app/?user=eifernandes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eifernandes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eifernandes&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=eifernandes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
